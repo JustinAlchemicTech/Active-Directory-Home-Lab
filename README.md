@@ -14,8 +14,8 @@ In this home lab I walked through how to create an Active Directory Environment 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-- <b>Server 2019</b>
+- <b>[Windows 10](https://www.microsoft.com/en-us/software-download/windows10)</b> (21H2)
+- <b>[Server 2019](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)</b>
 
 <h2>Program walk-through:</h2>
 
