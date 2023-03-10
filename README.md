@@ -10,7 +10,7 @@ In this home lab I walked through how to create an Active Directory Environment 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Oracle Virtual Box</b>
+- <b>Oracle Virtual Box (https://www.virtualbox.org/wiki/Downloads)</b>
 
 <h2>Environments Used </h2>
 
