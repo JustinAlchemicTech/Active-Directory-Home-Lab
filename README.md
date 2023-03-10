@@ -20,12 +20,12 @@ In this home lab I walked through how to create an Active Directory Environment 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating Users With PowerShell <br/>
+Active Directory Lab Overview <br/>
 <img src="https://i.imgur.com/Kysr2zD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
   <p align="center">
-Creating Users With PowerShell <br/>
+Creating Domain Controller and Client VMs <br/>
 <img src="https://i.imgur.com/N3KXisK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
