@@ -21,12 +21,12 @@ In this home lab I walked through how to create an Active Directory Environment 
 
 <p align="center">
 Creating Users With PowerShell <br/>
-<img src="https://i.imgur.com/LoXy4lz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Kysr2zD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
   <p align="center">
 Creating Users With PowerShell <br/>
-<img src="https://i.imgur.com/LoXy4lz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/N3KXisK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <!--
