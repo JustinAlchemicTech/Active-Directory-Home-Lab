@@ -21,6 +21,7 @@ In this home lab I walked through how to create an Active Directory Environment 
 
 <p align="center">
 Active Directory Lab Overview <br/>
+ 
 <img src="https://i.imgur.com/Kysr2zD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
