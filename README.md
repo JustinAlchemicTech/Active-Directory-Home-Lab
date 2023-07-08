@@ -25,7 +25,9 @@ Active Directory Lab Overview <br/>
 <br />
 
   <p align="center">
+   
 Creating Domain Controller and Client VMs <br/>
+
 <img src="https://i.imgur.com/N3KXisK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
    
