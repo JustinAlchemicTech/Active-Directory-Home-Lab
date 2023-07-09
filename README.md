@@ -35,6 +35,23 @@ Creating Domain Controller and Client VMs <br/>
 <img src="https://i.imgur.com/b0Zq5Gc.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<h2> Lab Setup Overview: </h2> 
+
+- Setting up the Virtual Environment: The initial step involves setting up the virtual environment using Oracle VirtualBox. This process includes creating a new virtual machine, allocating necessary resources such as memory and storage, and installing Windows Server 2019 as the operating system.
+
+- Configuring Windows Server 2019: Once the operating system is installed, the next phase is to configure Windows Server 2019 to function as an Active Directory server. This configuration involves setting up the server roles and features, configuring networking settings, and setting up the Active Directory Domain Services role.
+
+- Creating the Active Directory Environment: With the server configured, the next step is to create the Active Directory environment. This process involves creating a new forest and domain, setting up organizational units (OUs), and creating user accounts and groups.
+
+- Bulk Adding Users with PowerShell: After setting up the Active Directory environment, I demonstrate how to bulk add users using a PowerShell script. This includes creating a script to automate the creation of multiple user accounts, setting up permissions, and managing user groups. This automation significantly reduces the time and effort required to add multiple users manually.
+
+Testing and Troubleshooting: The final step is to test the Active Directory environment and troubleshoot any issues. This involves logging in with different user accounts, testing permissions, and ensuring that Group Policy settings were applied correctly.
+
+<h2> Lessons Learned: </h2> 
+Through this project, I gained a deeper understanding of how Active Directory and Windows networking works. I learned how to set up and manage an Active Directory environment, how to use PowerShell for bulk user creation, and how to troubleshoot common issues.
+
+
+
 <!--
  ```diff
 - text in red
