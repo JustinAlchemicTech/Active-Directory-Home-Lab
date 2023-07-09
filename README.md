@@ -39,7 +39,7 @@ Creating Domain Controller and Client VMs <br/>
 
 - Setting up the Virtual Environment: The initial step involves setting up the virtual environment using Oracle VirtualBox. This process includes creating a new virtual machine, allocating necessary resources such as memory and storage, and installing Windows Server 2019 as the operating system.
 
-<img src="https://i.imgur.com/Kysr2zD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pD6QinN.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 - Configuring Windows Server 2019: Once the operating system is installed, the next phase is to configure Windows Server 2019 to function as an Active Directory server. This configuration involves setting up the server roles and features, configuring networking settings, and setting up the Active Directory Domain Services role.
@@ -58,6 +58,9 @@ Creating Domain Controller and Client VMs <br/>
 <br />
 
 <img src="https://i.imgur.com/C1WrS0k.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<img src="https://i.imgur.com/lNejCwM.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 Testing and Troubleshooting: The final step is to test the Active Directory environment and troubleshoot any issues. This involves logging in with different user accounts, testing permissions, and ensuring that Group Policy settings were applied correctly.
